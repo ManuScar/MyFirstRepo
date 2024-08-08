@@ -12,7 +12,7 @@
 - Pan rallado
 
 ## Instrucciones
-1. Poner el huevo en un bol, agregar sal y mostaza.
+1. Poner el huevo en un bol, agregar sal, pimienta y mostaza.
 2. Poner los bifes a macerar.
 3. Empanar el bife.
 4. Pelar las papas y cortarlas, luego ponerlas en la holla con agua caliente.
