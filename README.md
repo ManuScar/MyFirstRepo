@@ -1,6 +1,4 @@
-# MyFirstRepo
-
-## Mi receta favorita: Milanesas con pure
+# Mi receta favorita: Milanesas con pure
 
 ## Ingredientes 
 - 1 Bifes
